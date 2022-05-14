@@ -3,7 +3,7 @@
 1..Iris Flowers Classification ML
 
 
-2.Image to Pencil Sketch with Python
+2.Image to Pencil Sketch with Python==Sketch
 
 
 
